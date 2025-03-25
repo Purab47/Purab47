@@ -9,11 +9,7 @@ I am an enthusiastic **Data Analyst** and **AI/ML Developer** with a strong back
 📊 CGPA: **8.0**
 
 ## 💼 Work Experience
-### **Data Analyst | MNC Company**
-- Working on **Big Data Engineering** concepts, including **data pipelines, CI/CD, cloud databases, and performance optimization**.
-- Responsible for publishing **eBooks** at the company.
-
-### **Intern | YECHTE**
+### **Data Analyst Intern | YECHTE**
 - **Streamlined data analysis processes**, improving efficiency by **25%**.
 - Developed **automated dashboards** and reports, reducing manual effort by **20%**.
 - Improved decision-making through **actionable insights**.
@@ -66,7 +62,6 @@ I am an enthusiastic **Data Analyst** and **AI/ML Developer** with a strong back
 
 ## 📫 Let's Connect!
 - **GitHub:** [Purab47](https://github.com/Purab47)
-- **LinkedIn:** [Purab Ganesh Ganvir]([https://www.linkedin.com/in/purab-ganesh-ganvir](https://www.linkedin.com/in/purabg22/))
-
+- **LinkedIn:** (https://www.linkedin.com/in/purabg22/)
 ---
 💡 *Passionate about AI, Data Science, and solving real-world challenges with technology!*
