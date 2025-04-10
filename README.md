@@ -1,5 +1,6 @@
 <!-- Optional: Add a banner image here -->
-<!-- ![Welcome](https://your-image-link.com/banner.png) -->
+[Welcome Banner](./github-header-image.png)
+
 
 # 👋 Hi there, I'm Purab Ganesh Ganvir!
 
