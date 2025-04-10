@@ -9,7 +9,7 @@ I'm a passionate **Data Analyst** and **AI/ML Developer** with hands-on experien
 ## 🎓 Education
 **Bachelor of Technology (B.Tech)** in **Electronics & Telecommunication Engineering**  
 📍 JSPM's Rajarshi Shahu College of Engineering  
-📊 CGPA: **8.0**
+📊 CGPA: **8.1**
 
 ---
 
