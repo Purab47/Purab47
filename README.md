@@ -33,7 +33,7 @@ I'm a passionate **Data Analyst** and **AI/ML Developer** with hands-on experien
 - Content-based filtering using user preferences and movie metadata.
 - Deployed on **Heroku**, enhanced recommendation accuracy by **20%**.
 
-### 📌 [🤖 Telegram Quote Bot with n8n](https://github.com/Purab47/Telegram-Quote-Bot)
+### 📌 [🤖 Telegram Quote Bot with n8n](https://github.com/Purab47/telegram-quote-bot-n8n)
 - Scrapes motivational quotes and auto-sends them to a Telegram bot daily.
 - Used **Python**, **BeautifulSoup**, **Telegram Bot API**, and **n8n** for workflow automation.
 
