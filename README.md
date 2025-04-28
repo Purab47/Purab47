@@ -24,12 +24,12 @@ I'm a passionate **Data Analyst** and **AI/ML Developer** with hands-on experien
 
 ## 🔬 Projects
 
-### 📌 [🎯 Student Performance Prediction](https://github.com/Purab47/Student-Performance-Prediction)
+### 📌 [🎯 Student Performance Prediction](https://github.com/Purab47/Student-Prediction-System)
 - Predicted academic performance with **96% accuracy** using ML models.
 - Preprocessed data (handling missing values, encoding categorical features).
 - Used **classification and regression algorithms**.
 
-### 📌 [🎬 Movie Recommendation System](https://github.com/Purab47/Movie-Recommendation-System)
+### 📌 [🎬 Movie Recommendation System](https://github.com/Purab47/Movies-Recommendation)
 - Content-based filtering using user preferences and movie metadata.
 - Deployed on **Heroku**, enhanced recommendation accuracy by **20%**.
 
@@ -37,13 +37,10 @@ I'm a passionate **Data Analyst** and **AI/ML Developer** with hands-on experien
 - Scrapes motivational quotes and auto-sends them to a Telegram bot daily.
 - Used **Python**, **BeautifulSoup**, **Telegram Bot API**, and **n8n** for workflow automation.
 
-### 📌 [🏡 Smart Home Automation System](https://github.com/Purab47/Smart-Home-Automation)
+### 📌 [🏡 Smart Home Automation System](https://github.com/Purab47/Smart-Home-Automation-System)
 - IoT-based automation using **Raspberry Pi**, Python, and sensors.
 - Reduced energy consumption by **30%** with motion and light sensors.
 
-### 📌 [⚡ 64x64 Vedic Multiplier using Reversible Logic](https://github.com/Purab47/Vedic-Multiplier)
-- Designed an optimized **Vedic multiplier** using **Toffoli, Fredkin, and Peres** gates.
-- Explored energy-efficient computing for **quantum and signal processing**.
 
 ---
 
